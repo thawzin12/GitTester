@@ -5,5 +5,6 @@ body {
   background-color: #fff;
 }
 header {
-  color: blue;
+  margin: 3px;
+  padding: 5px;
 }
