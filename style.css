@@ -4,3 +4,7 @@ h2 {
 body {
   background-color: #fff;
 }
+header {
+  margin: 3px;
+  padding: 5px;
+}
